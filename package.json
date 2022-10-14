@@ -1,0 +1,21 @@
+{
+  "name": "cypress-course",
+  "version": "1.0.0",
+  "description": "Cypress project Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "typescript",
+    "test"
+  ],
+  "author": "Francisco Quintana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "typescript": "^4.8.4"
+  }
+}
