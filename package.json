@@ -4,7 +4,7 @@
   "description": "Cypress project Udemy",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "runner": "cypress open"
   },
   "keywords": [
     "cypress",
