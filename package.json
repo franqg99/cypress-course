@@ -4,7 +4,7 @@
   "description": "Cypress project Udemy",
   "main": "index.js",
   "scripts": {
-    "runner": "cypress open"
+    "runner": "cypress open --e2e --browser firefox"
   },
   "keywords": [
     "cypress",
